@@ -1,2 +1,2 @@
-# Pro-Sorrisos
+# Pró-Sorrisos
 Site de recreação infantil
